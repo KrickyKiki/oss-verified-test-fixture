@@ -24,3 +24,5 @@ To use as your dummy repo:
 5. Visit `https://oss-verified-staging.better-internet.org/badge/github/<you>/oss-verified-test-fixture`.
    The Worker fetches the bundle, verifies the Sigstore chain end-to-end,
    and renders the SVG. Should be green.
+
+<!-- trigger re-attestation: ANTHROPIC_API_KEY is now set on the repo so the LLM audit step actually runs -->
